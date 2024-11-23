@@ -7,7 +7,7 @@ interface Env {
   OPEN_ROUTER_API_KEY: string;
   DEEPSEEK_API_KEY: string;
   TOGETHER_AI_API_KEY: string;
-
+  HUGGINGFACE_API_KEY: string;
   OLLAMA_API_BASE_URL: string;
   LM_STUDIO_API_BASE_URL: string;
 }
